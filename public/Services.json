@@ -1,0 +1,42 @@
+[
+    {
+        "name":"Luxury Bedroom",
+        "img":"https://i.ibb.co/hYwG1gD/luxury-bedroom-suite-resort-high-rise-hotel-with-working-table.png","price":230,
+        "category":"couple",
+        "id":"1"
+    },
+    {
+        "name":"3d Rendering Luxury Bedroom",
+        "img":"https://i.ibb.co/3f0T5KC/3d-rendering-luxury-bedroom-suite-resort-hotel-with-twin-bed-living.png",
+        "price": 499,
+        "category":"family",
+        "id":"2"
+    },
+    {
+        "name":"Modern Bedroom",
+        "img":"https://i.ibb.co/txrxcWh/modern-beadroom-hotel.png",
+        "price": 360,
+        "category":"couple",
+        "id":"3"
+    },
+    {
+        "name":"Elegant Room With Big Bed",
+        "img":"https://i.ibb.co/2MNhmS0/elegant-hotel-room-with-big-bed.png",
+        "price": 700,
+        "category":"couple",
+        "id":"4"
+    },{
+        "name":"Interior Modern Room",
+        "img":"https://i.ibb.co/GH5rrW9/interior-modern-comfortable-hotel-room-1.png",
+        "price": 454,
+        "category":"couple",
+        "id":"5"
+    },
+    {
+        "name":"Interior Comfortable Room",
+        "img":"https://i.ibb.co/3mJnCxT/interior-modern-comfortable-hotel-room.png",
+        "price": 420,
+        "category":"couple",
+        "id":"6"
+    }
+]
