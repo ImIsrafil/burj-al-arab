@@ -1,10 +1,10 @@
 import React from 'react';
-import useServices from '../../../../hooks/useServices';
+import useAllContext from '../../../../hooks/useAllContext';
 import Service from '../Service/Service';
 
 const Services = () => {
 
-    const { services } = useServices();
+    const { services } = useAllContext();
 
     return (
         <div className='max-w-screen-xl m-auto'>
